@@ -1,0 +1,1 @@
+# Real-Time-stage-aware--wildfire-progression-detection-based-YOLOv11
